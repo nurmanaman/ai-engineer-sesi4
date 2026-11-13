@@ -1,1 +1,3 @@
-# Digital Skola Github Sesi 4 AI Engineer`nIni adalah repo untuk belajar github dari Digital Skola
+# Digital Skola Github Sesi 4 AI Engineer
+
+Ini adalah repo untuk belajar github dari Digital Skola
